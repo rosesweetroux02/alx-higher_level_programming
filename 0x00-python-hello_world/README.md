@@ -1,2 +1,1 @@
-#!/usr/bin/python3
-Run Python file
+Python - Hello, World
